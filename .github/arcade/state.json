@@ -1,0 +1,13 @@
+{
+  "board": ["", "", "", "", "X", "", "", "", "O"],
+  "message": "Your turn — click any open square to play gold X against the bot.",
+  "stats": {
+    "games": 14,
+    "human": 6,
+    "bot": 5,
+    "draw": 3
+  },
+  "recent": [
+    "bapanghosh0812"
+  ]
+}

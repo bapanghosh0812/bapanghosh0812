@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="250" viewBox="0 0 430 250" role="img" aria-label="Most used languages">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F6E2A0"/><stop offset=".55" stop-color="#D4AF37"/><stop offset="1" stop-color="#9C7424"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy="0" r=".9">
+      <stop offset="0" stop-color="#D4AF37" stop-opacity=".10"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="430" height="250" fill="#0A0A0C"/>
+  <rect width="430" height="250" fill="url(#glow)"/>
+  <rect x="10.5" y="10.5" width="409" height="229" fill="none" stroke="#D4AF37" stroke-opacity=".45"/>
+  <path d="M6 26V6h20M404 6h20v20M6 224v20h20M404 244h20v-20" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <text x="32" y="46" fill="#D4AF37" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.2" text-anchor="start">LANGUAGES  ·  BY CODE VOLUME</text>
+  <rect x="32.0" y="66" width="235.0" height="8" fill="#F1D98B"/>
+  <rect x="269.0" y="66" width="56.4" height="8" fill="#D4AF37"/>
+  <rect x="327.3" y="66" width="29.7" height="8" fill="#A8862F"/>
+  <rect x="359.1" y="66" width="14.6" height="8" fill="#7C6224"/>
+  <rect x="375.7" y="66" width="11.7" height="8" fill="#E8E2D0"/>
+  <rect x="389.4" y="66" width="6.6" height="8" fill="#6B6455"/>
+  <rect x="32" y="103" width="10" height="10" fill="#F1D98B"/>
+  <text x="52" y="112" fill="#EFE8D6" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14">TypeScript</text>
+  <text x="200" y="112" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="15" text-anchor="end">64.7%</text>
+  <rect x="222" y="103" width="10" height="10" fill="#D4AF37"/>
+  <text x="242" y="112" fill="#EFE8D6" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14">JavaScript</text>
+  <text x="390" y="112" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="15" text-anchor="end">16.0%</text>
+  <rect x="32" y="143" width="10" height="10" fill="#A8862F"/>
+  <text x="52" y="152" fill="#EFE8D6" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14">Kotlin</text>
+  <text x="200" y="152" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="15" text-anchor="end">8.7%</text>
+  <rect x="222" y="143" width="10" height="10" fill="#7C6224"/>
+  <text x="242" y="152" fill="#EFE8D6" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14">Go</text>
+  <text x="390" y="152" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="15" text-anchor="end">4.5%</text>
+  <rect x="32" y="183" width="10" height="10" fill="#E8E2D0"/>
+  <text x="52" y="192" fill="#EFE8D6" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14">Python</text>
+  <text x="200" y="192" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="15" text-anchor="end">3.7%</text>
+  <rect x="222" y="183" width="10" height="10" fill="#6B6455"/>
+  <text x="242" y="192" fill="#EFE8D6" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14">Other</text>
+  <text x="390" y="192" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="15" text-anchor="end">2.4%</text>
+</svg>

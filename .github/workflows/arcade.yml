@@ -1,0 +1,40 @@
+name: Community Arcade (Tic-Tac-Toe)
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'ttt|')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Process move & update board
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          REPOSITORY: ${{ github.repository }}
+        run: python3 .github/scripts/arcade.py
+
+      - name: Commit updated board
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/arcade/state.json
+          git diff --cached --quiet || git commit -m "chore(arcade): move by @${{ github.event.issue.user.login }}"
+          git push
+
+      - name: Reply & close issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -f arcade_reply.md ]; then
+            gh issue comment "${{ github.event.issue.number }}" --body-file arcade_reply.md
+          fi
+          gh issue close "${{ github.event.issue.number }}"

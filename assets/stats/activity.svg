@@ -1,0 +1,417 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="GitHub activity">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F6E2A0"/><stop offset=".55" stop-color="#D4AF37"/><stop offset="1" stop-color="#9C7424"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy="0" r=".9">
+      <stop offset="0" stop-color="#D4AF37" stop-opacity=".10"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="880" height="300" fill="#0A0A0C"/>
+  <rect width="880" height="300" fill="url(#glow)"/>
+  <rect x="10.5" y="10.5" width="859" height="279" fill="none" stroke="#D4AF37" stroke-opacity=".45"/>
+  <path d="M6 26V6h20M854 6h20v20M6 274v20h20M854 294h20v-20" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <text x="40" y="46" fill="#D4AF37" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.2" text-anchor="start">ACTIVITY  ·  LAST TWELVE MONTHS</text>
+  <text x="840" y="46" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.6" text-anchor="end">UPDATED 03 NOV 2026</text>
+  <text x="120.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">124</text>
+  <text x="120.0" y="126" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.8" text-anchor="middle">CONTRIBUTIONS</text>
+  <text x="280.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">29</text>
+  <text x="280.0" y="126" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.8" text-anchor="middle">ACTIVE DAYS</text>
+  <line x1="200.0" y1="72" x2="200.0" y2="128" stroke="#D4AF37" stroke-opacity=".35"/>
+  <text x="440.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">2</text>
+  <text x="440.0" y="126" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.8" text-anchor="middle">CURRENT STREAK</text>
+  <line x1="360.0" y1="72" x2="360.0" y2="128" stroke="#D4AF37" stroke-opacity=".35"/>
+  <text x="600.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">6</text>
+  <text x="600.0" y="126" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.8" text-anchor="middle">LONGEST STREAK</text>
+  <line x1="520.0" y1="72" x2="520.0" y2="128" stroke="#D4AF37" stroke-opacity=".35"/>
+  <text x="760.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">19</text>
+  <text x="760.0" y="126" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.8" text-anchor="middle">PUBLIC PROJECTS</text>
+  <line x1="680.0" y1="72" x2="680.0" y2="128" stroke="#D4AF37" stroke-opacity=".35"/>
+  <rect x="70.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Nov 2025</title></rect>
+  <rect x="70.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Nov 2025</title></rect>
+  <rect x="70.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Nov 2025</title></rect>
+  <rect x="70.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Nov 2025</title></rect>
+  <rect x="70.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Nov 2025</title></rect>
+  <rect x="70.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Nov 2025</title></rect>
+  <rect x="70.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Nov 2025</title></rect>
+  <text x="70.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">NOV</text>
+  <rect x="84.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Nov 2025</title></rect>
+  <rect x="84.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Nov 2025</title></rect>
+  <rect x="84.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Nov 2025</title></rect>
+  <rect x="84.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Nov 2025</title></rect>
+  <rect x="84.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Nov 2025</title></rect>
+  <rect x="84.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Nov 2025</title></rect>
+  <rect x="84.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Nov 2025</title></rect>
+  <rect x="98.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Nov 2025</title></rect>
+  <rect x="98.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Nov 2025</title></rect>
+  <rect x="98.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Nov 2025</title></rect>
+  <rect x="98.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Nov 2025</title></rect>
+  <rect x="98.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Nov 2025</title></rect>
+  <rect x="98.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Nov 2025</title></rect>
+  <rect x="98.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Nov 2025</title></rect>
+  <rect x="112.5" y="176" width="11" height="11" rx="2" fill="#4A3B17"><title>1 contribution on 23 Nov 2025</title></rect>
+  <rect x="112.5" y="190" width="11" height="11" rx="2" fill="#4A3B17"><title>2 contributions on 24 Nov 2025</title></rect>
+  <rect x="112.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Nov 2025</title></rect>
+  <rect x="112.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Nov 2025</title></rect>
+  <rect x="112.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Nov 2025</title></rect>
+  <rect x="112.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Nov 2025</title></rect>
+  <rect x="112.5" y="260" width="11" height="11" rx="2" fill="#4A3B17"><title>3 contributions on 29 Nov 2025</title></rect>
+  <rect x="126.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Nov 2025</title></rect>
+  <rect x="126.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Dec 2025</title></rect>
+  <rect x="126.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Dec 2025</title></rect>
+  <rect x="126.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Dec 2025</title></rect>
+  <rect x="126.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Dec 2025</title></rect>
+  <rect x="126.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Dec 2025</title></rect>
+  <rect x="126.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Dec 2025</title></rect>
+  <rect x="140.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Dec 2025</title></rect>
+  <rect x="140.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Dec 2025</title></rect>
+  <rect x="140.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Dec 2025</title></rect>
+  <rect x="140.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Dec 2025</title></rect>
+  <rect x="140.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Dec 2025</title></rect>
+  <rect x="140.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Dec 2025</title></rect>
+  <rect x="140.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Dec 2025</title></rect>
+  <text x="140.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">DEC</text>
+  <rect x="154.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Dec 2025</title></rect>
+  <rect x="154.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Dec 2025</title></rect>
+  <rect x="154.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Dec 2025</title></rect>
+  <rect x="154.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Dec 2025</title></rect>
+  <rect x="154.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Dec 2025</title></rect>
+  <rect x="154.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Dec 2025</title></rect>
+  <rect x="154.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Dec 2025</title></rect>
+  <rect x="168.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Dec 2025</title></rect>
+  <rect x="168.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Dec 2025</title></rect>
+  <rect x="168.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Dec 2025</title></rect>
+  <rect x="168.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Dec 2025</title></rect>
+  <rect x="168.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Dec 2025</title></rect>
+  <rect x="168.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Dec 2025</title></rect>
+  <rect x="168.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Dec 2025</title></rect>
+  <rect x="182.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Dec 2025</title></rect>
+  <rect x="182.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 Dec 2025</title></rect>
+  <rect x="182.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Dec 2025</title></rect>
+  <rect x="182.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 31 Dec 2025</title></rect>
+  <rect x="182.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Jan 2026</title></rect>
+  <rect x="182.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Jan 2026</title></rect>
+  <rect x="182.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Jan 2026</title></rect>
+  <rect x="196.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Jan 2026</title></rect>
+  <rect x="196.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Jan 2026</title></rect>
+  <rect x="196.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Jan 2026</title></rect>
+  <rect x="196.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Jan 2026</title></rect>
+  <rect x="196.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Jan 2026</title></rect>
+  <rect x="196.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Jan 2026</title></rect>
+  <rect x="196.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Jan 2026</title></rect>
+  <text x="196.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">JAN</text>
+  <rect x="210.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Jan 2026</title></rect>
+  <rect x="210.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Jan 2026</title></rect>
+  <rect x="210.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Jan 2026</title></rect>
+  <rect x="210.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Jan 2026</title></rect>
+  <rect x="210.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Jan 2026</title></rect>
+  <rect x="210.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Jan 2026</title></rect>
+  <rect x="210.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Jan 2026</title></rect>
+  <rect x="224.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Jan 2026</title></rect>
+  <rect x="224.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Jan 2026</title></rect>
+  <rect x="224.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Jan 2026</title></rect>
+  <rect x="224.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Jan 2026</title></rect>
+  <rect x="224.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Jan 2026</title></rect>
+  <rect x="224.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Jan 2026</title></rect>
+  <rect x="224.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Jan 2026</title></rect>
+  <rect x="238.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Jan 2026</title></rect>
+  <rect x="238.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Jan 2026</title></rect>
+  <rect x="238.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Jan 2026</title></rect>
+  <rect x="238.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Jan 2026</title></rect>
+  <rect x="238.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 Jan 2026</title></rect>
+  <rect x="238.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Jan 2026</title></rect>
+  <rect x="238.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 31 Jan 2026</title></rect>
+  <rect x="252.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Feb 2026</title></rect>
+  <rect x="252.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Feb 2026</title></rect>
+  <rect x="252.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Feb 2026</title></rect>
+  <rect x="252.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Feb 2026</title></rect>
+  <rect x="252.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Feb 2026</title></rect>
+  <rect x="252.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Feb 2026</title></rect>
+  <rect x="252.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Feb 2026</title></rect>
+  <text x="252.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">FEB</text>
+  <rect x="266.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Feb 2026</title></rect>
+  <rect x="266.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Feb 2026</title></rect>
+  <rect x="266.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Feb 2026</title></rect>
+  <rect x="266.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Feb 2026</title></rect>
+  <rect x="266.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Feb 2026</title></rect>
+  <rect x="266.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Feb 2026</title></rect>
+  <rect x="266.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Feb 2026</title></rect>
+  <rect x="280.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Feb 2026</title></rect>
+  <rect x="280.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Feb 2026</title></rect>
+  <rect x="280.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Feb 2026</title></rect>
+  <rect x="280.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Feb 2026</title></rect>
+  <rect x="280.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Feb 2026</title></rect>
+  <rect x="280.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Feb 2026</title></rect>
+  <rect x="280.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Feb 2026</title></rect>
+  <rect x="294.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Feb 2026</title></rect>
+  <rect x="294.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Feb 2026</title></rect>
+  <rect x="294.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Feb 2026</title></rect>
+  <rect x="294.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Feb 2026</title></rect>
+  <rect x="294.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Feb 2026</title></rect>
+  <rect x="294.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Feb 2026</title></rect>
+  <rect x="294.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Feb 2026</title></rect>
+  <rect x="308.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Mar 2026</title></rect>
+  <rect x="308.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Mar 2026</title></rect>
+  <rect x="308.5" y="204" width="11" height="11" rx="2" fill="#4A3B17"><title>1 contribution on 03 Mar 2026</title></rect>
+  <rect x="308.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Mar 2026</title></rect>
+  <rect x="308.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Mar 2026</title></rect>
+  <rect x="308.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Mar 2026</title></rect>
+  <rect x="308.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Mar 2026</title></rect>
+  <text x="308.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">MAR</text>
+  <rect x="322.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Mar 2026</title></rect>
+  <rect x="322.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Mar 2026</title></rect>
+  <rect x="322.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Mar 2026</title></rect>
+  <rect x="322.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Mar 2026</title></rect>
+  <rect x="322.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Mar 2026</title></rect>
+  <rect x="322.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Mar 2026</title></rect>
+  <rect x="322.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Mar 2026</title></rect>
+  <rect x="336.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Mar 2026</title></rect>
+  <rect x="336.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Mar 2026</title></rect>
+  <rect x="336.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Mar 2026</title></rect>
+  <rect x="336.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Mar 2026</title></rect>
+  <rect x="336.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Mar 2026</title></rect>
+  <rect x="336.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Mar 2026</title></rect>
+  <rect x="336.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Mar 2026</title></rect>
+  <rect x="350.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Mar 2026</title></rect>
+  <rect x="350.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Mar 2026</title></rect>
+  <rect x="350.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Mar 2026</title></rect>
+  <rect x="350.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Mar 2026</title></rect>
+  <rect x="350.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Mar 2026</title></rect>
+  <rect x="350.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Mar 2026</title></rect>
+  <rect x="350.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Mar 2026</title></rect>
+  <rect x="364.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 Mar 2026</title></rect>
+  <rect x="364.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Mar 2026</title></rect>
+  <rect x="364.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 31 Mar 2026</title></rect>
+  <rect x="364.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Apr 2026</title></rect>
+  <rect x="364.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Apr 2026</title></rect>
+  <rect x="364.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Apr 2026</title></rect>
+  <rect x="364.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Apr 2026</title></rect>
+  <rect x="378.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Apr 2026</title></rect>
+  <rect x="378.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Apr 2026</title></rect>
+  <rect x="378.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Apr 2026</title></rect>
+  <rect x="378.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Apr 2026</title></rect>
+  <rect x="378.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Apr 2026</title></rect>
+  <rect x="378.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Apr 2026</title></rect>
+  <rect x="378.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Apr 2026</title></rect>
+  <text x="378.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">APR</text>
+  <rect x="392.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Apr 2026</title></rect>
+  <rect x="392.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Apr 2026</title></rect>
+  <rect x="392.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Apr 2026</title></rect>
+  <rect x="392.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Apr 2026</title></rect>
+  <rect x="392.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Apr 2026</title></rect>
+  <rect x="392.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Apr 2026</title></rect>
+  <rect x="392.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Apr 2026</title></rect>
+  <rect x="406.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Apr 2026</title></rect>
+  <rect x="406.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Apr 2026</title></rect>
+  <rect x="406.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Apr 2026</title></rect>
+  <rect x="406.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Apr 2026</title></rect>
+  <rect x="406.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Apr 2026</title></rect>
+  <rect x="406.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Apr 2026</title></rect>
+  <rect x="406.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Apr 2026</title></rect>
+  <rect x="420.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Apr 2026</title></rect>
+  <rect x="420.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Apr 2026</title></rect>
+  <rect x="420.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Apr 2026</title></rect>
+  <rect x="420.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 Apr 2026</title></rect>
+  <rect x="420.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Apr 2026</title></rect>
+  <rect x="420.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 May 2026</title></rect>
+  <rect x="420.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 May 2026</title></rect>
+  <rect x="434.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 May 2026</title></rect>
+  <rect x="434.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 May 2026</title></rect>
+  <rect x="434.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 May 2026</title></rect>
+  <rect x="434.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 May 2026</title></rect>
+  <rect x="434.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 May 2026</title></rect>
+  <rect x="434.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 May 2026</title></rect>
+  <rect x="434.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 May 2026</title></rect>
+  <text x="434.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">MAY</text>
+  <rect x="448.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 May 2026</title></rect>
+  <rect x="448.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 May 2026</title></rect>
+  <rect x="448.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 May 2026</title></rect>
+  <rect x="448.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 May 2026</title></rect>
+  <rect x="448.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 May 2026</title></rect>
+  <rect x="448.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 May 2026</title></rect>
+  <rect x="448.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 May 2026</title></rect>
+  <rect x="462.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 May 2026</title></rect>
+  <rect x="462.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 May 2026</title></rect>
+  <rect x="462.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 May 2026</title></rect>
+  <rect x="462.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 May 2026</title></rect>
+  <rect x="462.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 May 2026</title></rect>
+  <rect x="462.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 May 2026</title></rect>
+  <rect x="462.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 May 2026</title></rect>
+  <rect x="476.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 May 2026</title></rect>
+  <rect x="476.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 May 2026</title></rect>
+  <rect x="476.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 May 2026</title></rect>
+  <rect x="476.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 May 2026</title></rect>
+  <rect x="476.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 May 2026</title></rect>
+  <rect x="476.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 May 2026</title></rect>
+  <rect x="476.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 May 2026</title></rect>
+  <rect x="490.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 31 May 2026</title></rect>
+  <rect x="490.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Jun 2026</title></rect>
+  <rect x="490.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Jun 2026</title></rect>
+  <rect x="490.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Jun 2026</title></rect>
+  <rect x="490.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Jun 2026</title></rect>
+  <rect x="490.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Jun 2026</title></rect>
+  <rect x="490.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Jun 2026</title></rect>
+  <rect x="504.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Jun 2026</title></rect>
+  <rect x="504.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Jun 2026</title></rect>
+  <rect x="504.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Jun 2026</title></rect>
+  <rect x="504.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Jun 2026</title></rect>
+  <rect x="504.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Jun 2026</title></rect>
+  <rect x="504.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Jun 2026</title></rect>
+  <rect x="504.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Jun 2026</title></rect>
+  <text x="504.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">JUN</text>
+  <rect x="518.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Jun 2026</title></rect>
+  <rect x="518.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Jun 2026</title></rect>
+  <rect x="518.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Jun 2026</title></rect>
+  <rect x="518.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Jun 2026</title></rect>
+  <rect x="518.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Jun 2026</title></rect>
+  <rect x="518.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Jun 2026</title></rect>
+  <rect x="518.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Jun 2026</title></rect>
+  <rect x="532.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Jun 2026</title></rect>
+  <rect x="532.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Jun 2026</title></rect>
+  <rect x="532.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Jun 2026</title></rect>
+  <rect x="532.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Jun 2026</title></rect>
+  <rect x="532.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Jun 2026</title></rect>
+  <rect x="532.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Jun 2026</title></rect>
+  <rect x="532.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Jun 2026</title></rect>
+  <rect x="546.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Jun 2026</title></rect>
+  <rect x="546.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 Jun 2026</title></rect>
+  <rect x="546.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Jun 2026</title></rect>
+  <rect x="546.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Jul 2026</title></rect>
+  <rect x="546.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Jul 2026</title></rect>
+  <rect x="546.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Jul 2026</title></rect>
+  <rect x="546.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Jul 2026</title></rect>
+  <rect x="560.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Jul 2026</title></rect>
+  <rect x="560.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Jul 2026</title></rect>
+  <rect x="560.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Jul 2026</title></rect>
+  <rect x="560.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Jul 2026</title></rect>
+  <rect x="560.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Jul 2026</title></rect>
+  <rect x="560.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Jul 2026</title></rect>
+  <rect x="560.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Jul 2026</title></rect>
+  <text x="560.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">JUL</text>
+  <rect x="574.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Jul 2026</title></rect>
+  <rect x="574.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Jul 2026</title></rect>
+  <rect x="574.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Jul 2026</title></rect>
+  <rect x="574.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Jul 2026</title></rect>
+  <rect x="574.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Jul 2026</title></rect>
+  <rect x="574.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Jul 2026</title></rect>
+  <rect x="574.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Jul 2026</title></rect>
+  <rect x="588.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Jul 2026</title></rect>
+  <rect x="588.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Jul 2026</title></rect>
+  <rect x="588.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Jul 2026</title></rect>
+  <rect x="588.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Jul 2026</title></rect>
+  <rect x="588.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Jul 2026</title></rect>
+  <rect x="588.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Jul 2026</title></rect>
+  <rect x="588.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Jul 2026</title></rect>
+  <rect x="602.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Jul 2026</title></rect>
+  <rect x="602.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Jul 2026</title></rect>
+  <rect x="602.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Jul 2026</title></rect>
+  <rect x="602.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 Jul 2026</title></rect>
+  <rect x="602.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Jul 2026</title></rect>
+  <rect x="602.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 31 Jul 2026</title></rect>
+  <rect x="602.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Aug 2026</title></rect>
+  <rect x="616.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Aug 2026</title></rect>
+  <rect x="616.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Aug 2026</title></rect>
+  <rect x="616.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Aug 2026</title></rect>
+  <rect x="616.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Aug 2026</title></rect>
+  <rect x="616.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Aug 2026</title></rect>
+  <rect x="616.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Aug 2026</title></rect>
+  <rect x="616.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Aug 2026</title></rect>
+  <text x="616.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">AUG</text>
+  <rect x="630.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Aug 2026</title></rect>
+  <rect x="630.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Aug 2026</title></rect>
+  <rect x="630.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Aug 2026</title></rect>
+  <rect x="630.5" y="218" width="11" height="11" rx="2" fill="#4A3B17"><title>3 contributions on 12 Aug 2026</title></rect>
+  <rect x="630.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Aug 2026</title></rect>
+  <rect x="630.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Aug 2026</title></rect>
+  <rect x="630.5" y="260" width="11" height="11" rx="2" fill="#4A3B17"><title>1 contribution on 15 Aug 2026</title></rect>
+  <rect x="644.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Aug 2026</title></rect>
+  <rect x="644.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Aug 2026</title></rect>
+  <rect x="644.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Aug 2026</title></rect>
+  <rect x="644.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Aug 2026</title></rect>
+  <rect x="644.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Aug 2026</title></rect>
+  <rect x="644.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Aug 2026</title></rect>
+  <rect x="644.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Aug 2026</title></rect>
+  <rect x="658.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Aug 2026</title></rect>
+  <rect x="658.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Aug 2026</title></rect>
+  <rect x="658.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Aug 2026</title></rect>
+  <rect x="658.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Aug 2026</title></rect>
+  <rect x="658.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Aug 2026</title></rect>
+  <rect x="658.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Aug 2026</title></rect>
+  <rect x="658.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 Aug 2026</title></rect>
+  <rect x="672.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Aug 2026</title></rect>
+  <rect x="672.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 31 Aug 2026</title></rect>
+  <rect x="672.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Sep 2026</title></rect>
+  <rect x="672.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 02 Sep 2026</title></rect>
+  <rect x="672.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Sep 2026</title></rect>
+  <rect x="672.5" y="246" width="11" height="11" rx="2" fill="#B8922E"><title>8 contributions on 04 Sep 2026</title></rect>
+  <rect x="672.5" y="260" width="11" height="11" rx="2" fill="#F1D98B"><title>18 contributions on 05 Sep 2026</title></rect>
+  <rect x="686.5" y="176" width="11" height="11" rx="2" fill="#B8922E"><title>8 contributions on 06 Sep 2026</title></rect>
+  <rect x="686.5" y="190" width="11" height="11" rx="2" fill="#7C6224"><title>5 contributions on 07 Sep 2026</title></rect>
+  <rect x="686.5" y="204" width="11" height="11" rx="2" fill="#7C6224"><title>4 contributions on 08 Sep 2026</title></rect>
+  <rect x="686.5" y="218" width="11" height="11" rx="2" fill="#4A3B17"><title>2 contributions on 09 Sep 2026</title></rect>
+  <rect x="686.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Sep 2026</title></rect>
+  <rect x="686.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Sep 2026</title></rect>
+  <rect x="686.5" y="260" width="11" height="11" rx="2" fill="#4A3B17"><title>1 contribution on 12 Sep 2026</title></rect>
+  <text x="686.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">SEP</text>
+  <rect x="700.5" y="176" width="11" height="11" rx="2" fill="#7C6224"><title>4 contributions on 13 Sep 2026</title></rect>
+  <rect x="700.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Sep 2026</title></rect>
+  <rect x="700.5" y="204" width="11" height="11" rx="2" fill="#4A3B17"><title>1 contribution on 15 Sep 2026</title></rect>
+  <rect x="700.5" y="218" width="11" height="11" rx="2" fill="#4A3B17"><title>3 contributions on 16 Sep 2026</title></rect>
+  <rect x="700.5" y="232" width="11" height="11" rx="2" fill="#B8922E"><title>7 contributions on 17 Sep 2026</title></rect>
+  <rect x="700.5" y="246" width="11" height="11" rx="2" fill="#B8922E"><title>7 contributions on 18 Sep 2026</title></rect>
+  <rect x="700.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Sep 2026</title></rect>
+  <rect x="714.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Sep 2026</title></rect>
+  <rect x="714.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Sep 2026</title></rect>
+  <rect x="714.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Sep 2026</title></rect>
+  <rect x="714.5" y="218" width="11" height="11" rx="2" fill="#7C6224"><title>4 contributions on 23 Sep 2026</title></rect>
+  <rect x="714.5" y="232" width="11" height="11" rx="2" fill="#7C6224"><title>5 contributions on 24 Sep 2026</title></rect>
+  <rect x="714.5" y="246" width="11" height="11" rx="2" fill="#4A3B17"><title>2 contributions on 25 Sep 2026</title></rect>
+  <rect x="714.5" y="260" width="11" height="11" rx="2" fill="#7C6224"><title>5 contributions on 26 Sep 2026</title></rect>
+  <rect x="728.5" y="176" width="11" height="11" rx="2" fill="#4A3B17"><title>1 contribution on 27 Sep 2026</title></rect>
+  <rect x="728.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Sep 2026</title></rect>
+  <rect x="728.5" y="204" width="11" height="11" rx="2" fill="#4A3B17"><title>3 contributions on 29 Sep 2026</title></rect>
+  <rect x="728.5" y="218" width="11" height="11" rx="2" fill="#4A3B17"><title>2 contributions on 30 Sep 2026</title></rect>
+  <rect x="728.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 01 Oct 2026</title></rect>
+  <rect x="728.5" y="246" width="11" height="11" rx="2" fill="#4A3B17"><title>1 contribution on 02 Oct 2026</title></rect>
+  <rect x="728.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Oct 2026</title></rect>
+  <rect x="742.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 04 Oct 2026</title></rect>
+  <rect x="742.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 05 Oct 2026</title></rect>
+  <rect x="742.5" y="204" width="11" height="11" rx="2" fill="#4A3B17"><title>2 contributions on 06 Oct 2026</title></rect>
+  <rect x="742.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Oct 2026</title></rect>
+  <rect x="742.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 08 Oct 2026</title></rect>
+  <rect x="742.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 09 Oct 2026</title></rect>
+  <rect x="742.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 10 Oct 2026</title></rect>
+  <text x="742.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">OCT</text>
+  <rect x="756.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 11 Oct 2026</title></rect>
+  <rect x="756.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 12 Oct 2026</title></rect>
+  <rect x="756.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 13 Oct 2026</title></rect>
+  <rect x="756.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 14 Oct 2026</title></rect>
+  <rect x="756.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 15 Oct 2026</title></rect>
+  <rect x="756.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 16 Oct 2026</title></rect>
+  <rect x="756.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 17 Oct 2026</title></rect>
+  <rect x="770.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 18 Oct 2026</title></rect>
+  <rect x="770.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 19 Oct 2026</title></rect>
+  <rect x="770.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 20 Oct 2026</title></rect>
+  <rect x="770.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 21 Oct 2026</title></rect>
+  <rect x="770.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 22 Oct 2026</title></rect>
+  <rect x="770.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 23 Oct 2026</title></rect>
+  <rect x="770.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 24 Oct 2026</title></rect>
+  <rect x="784.5" y="176" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 25 Oct 2026</title></rect>
+  <rect x="784.5" y="190" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 26 Oct 2026</title></rect>
+  <rect x="784.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 27 Oct 2026</title></rect>
+  <rect x="784.5" y="218" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 28 Oct 2026</title></rect>
+  <rect x="784.5" y="232" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 29 Oct 2026</title></rect>
+  <rect x="784.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 30 Oct 2026</title></rect>
+  <rect x="784.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 31 Oct 2026</title></rect>
+  <rect x="798.5" y="176" width="11" height="11" rx="2" fill="#B8922E"><title>7 contributions on 01 Nov 2026</title></rect>
+  <rect x="798.5" y="190" width="11" height="11" rx="2" fill="#F1D98B"><title>13 contributions on 02 Nov 2026</title></rect>
+  <rect x="798.5" y="204" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 03 Nov 2026</title></rect>
+  <text x="798.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">NOV</text>
+  <text x="693.5" y="278" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="end">LESS</text>
+  <rect x="699.5" y="269" width="11" height="11" rx="2" fill="#17150F"/>
+  <rect x="713.5" y="269" width="11" height="11" rx="2" fill="#4A3B17"/>
+  <rect x="727.5" y="269" width="11" height="11" rx="2" fill="#7C6224"/>
+  <rect x="741.5" y="269" width="11" height="11" rx="2" fill="#B8922E"/>
+  <rect x="755.5" y="269" width="11" height="11" rx="2" fill="#F1D98B"/>
+  <text x="773.5" y="278" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">MORE</text>
+</svg>
