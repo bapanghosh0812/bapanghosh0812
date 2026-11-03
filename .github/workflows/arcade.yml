@@ -38,3 +38,4 @@ jobs:
             gh issue comment "${{ github.event.issue.number }}" --body-file arcade_reply.md
           fi
           gh issue close "${{ github.event.issue.number }}"
+

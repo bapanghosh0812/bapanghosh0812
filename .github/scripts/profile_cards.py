@@ -16,6 +16,11 @@ import urllib.request
 
 USER = os.environ.get("PROFILE_USER", "bapanghosh0812")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
+IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
+
+
+def today_ist() -> dt.date:
+    return dt.datetime.now(IST).date()
 
 BG = "#0A0A0C"
 LINE = "#D4AF37"
@@ -129,7 +134,7 @@ def activity_card(days, repo_count: int) -> str:
     metrics = [(f"{total:,}", "CONTRIBUTIONS"), (str(active), "ACTIVE DAYS"), (str(current), "CURRENT STREAK"),
                (str(longest), "LONGEST STREAK"), (str(repo_count), "PUBLIC PROJECTS")]
     body = [label(40, 46, "ACTIVITY  ·  LAST TWELVE MONTHS"),
-            label(w - 40, 46, f"UPDATED {dt.date.today():%d %b %Y}".upper(), fill=MUTED, anchor="end", spacing=1.6)]
+            label(w - 40, 46, f"AUTO-UPDATED  ·  {today_ist():%d %b %Y}".upper(), fill=MUTED, anchor="end", spacing=1.6)]
     col = (w - 80) / len(metrics)
     for i, (value, name) in enumerate(metrics):
         cx = 40 + col * i + col / 2
@@ -278,7 +283,7 @@ def main() -> None:
     cards = {
         "activity.svg": activity_card(days, len(repos)),
         "languages.svg": languages_card(languages(repos)),
-        "quote.svg": quote_card(dt.date.today()),
+        "quote.svg": quote_card(today_ist()),
         "trophies.svg": trophies_card(days, len(repos)),
     }
     for name, svg in cards.items():

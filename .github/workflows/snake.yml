@@ -2,7 +2,7 @@ name: Daily Profile Telemetry & Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *" # Auto-refresh every 6 hours (4x daily)
   workflow_dispatch:
   push:
     branches:
@@ -30,7 +30,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/stats
-          git diff --cached --quiet || (git commit -m "chore(telemetry): refresh daily profile cards" && git push)
+          git diff --cached --quiet || (git commit -m "chore(telemetry): auto-refresh profile cards" && git pull --rebase origin main && git push)
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3

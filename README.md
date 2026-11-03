@@ -345,21 +345,29 @@ Whether you have thirty seconds or five minutes, you can play a game right here:
 
 <div align="center">
 
-  <img src="./assets/stats/trophies.svg" width="100%" alt="Engineering Milestones and Honors" />
+  <a href="https://bapanghosh.netlify.app/#certificates">
+    <img src="./assets/stats/trophies.svg" width="100%" alt="Engineering Milestones and Honors" />
+  </a>
 
   <br/><br/>
 
-  <img src="./assets/stats/activity.svg" width="100%" alt="12-Month Contribution Activity & Streak" />
+  <a href="https://github.com/bapanghosh0812">
+    <img src="./assets/stats/activity.svg" width="100%" alt="12-Month Contribution Activity & Streak" />
+  </a>
 
   <br/><br/>
 
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="./assets/stats/languages.svg" width="100%" alt="Most Used Languages by Code Volume" />
+        <a href="https://github.com/bapanghosh0812?tab=repositories">
+          <img src="./assets/stats/languages.svg" width="100%" alt="Most Used Languages by Code Volume" />
+        </a>
       </td>
       <td width="50%" align="center">
-        <img src="./assets/stats/quote.svg" width="100%" alt="Engineering Quote of the Day" />
+        <a href="https://bapanghosh.netlify.app/">
+          <img src="./assets/stats/quote.svg" width="100%" alt="Engineering Quote of the Day" />
+        </a>
       </td>
     </tr>
   </table>
