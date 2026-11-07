@@ -18,7 +18,7 @@
   <text x="280.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">32</text>
   <text x="280.0" y="126" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.8" text-anchor="middle">ACTIVE DAYS</text>
   <line x1="200.0" y1="72" x2="200.0" y2="128" stroke="#D4AF37" stroke-opacity=".35"/>
-  <text x="440.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">5</text>
+  <text x="440.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">0</text>
   <text x="440.0" y="126" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.8" text-anchor="middle">CURRENT STREAK</text>
   <line x1="360.0" y1="72" x2="360.0" y2="128" stroke="#D4AF37" stroke-opacity=".35"/>
   <text x="600.0" y="104" fill="url(#gold)" font-family="Georgia,'Times New Roman',serif" font-size="34" text-anchor="middle">6</text>
@@ -409,6 +409,7 @@
   <rect x="798.5" y="218" width="11" height="11" rx="2" fill="#7C6224"><title>7 contributions on 04 Nov 2026</title></rect>
   <rect x="798.5" y="232" width="11" height="11" rx="2" fill="#F1D98B"><title>15 contributions on 05 Nov 2026</title></rect>
   <rect x="798.5" y="246" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 06 Nov 2026</title></rect>
+  <rect x="798.5" y="260" width="11" height="11" rx="2" fill="#17150F"><title>0 contributions on 07 Nov 2026</title></rect>
   <text x="798.5" y="166" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="start">NOV</text>
   <text x="693.5" y="278" fill="#9C9482" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="end">LESS</text>
   <rect x="699.5" y="269" width="11" height="11" rx="2" fill="#17150F"/>
