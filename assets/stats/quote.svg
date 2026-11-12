@@ -13,9 +13,8 @@
   <path d="M6 26V6h20M404 6h20v20M6 224v20h20M404 244h20v-20" fill="none" stroke="#D4AF37" stroke-width="2"/>
   <text x="32" y="46" fill="#D4AF37" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.2" text-anchor="start">QUOTE OF THE DAY</text>
   <text x="396" y="92" fill="url(#gold)" fill-opacity=".35" font-family="Georgia,'Times New Roman',serif" font-size="96" text-anchor="end">&#8221;</text>
-  <text x="32" y="104" fill="#EFE8D6" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19">Walking on water and developing</text>
-  <text x="32" y="132" fill="#EFE8D6" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19">software from a specification are</text>
-  <text x="32" y="160" fill="#EFE8D6" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19">easy if both are frozen.</text>
-  <line x1="32" y1="196" x2="56" y2="196" stroke="#D4AF37"/>
-  <text x="66" y="200" fill="#D4AF37" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="2" text-anchor="start">EDWARD V. BERARD</text>
+  <text x="32" y="104" fill="#EFE8D6" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19">Software is a great combination</text>
+  <text x="32" y="132" fill="#EFE8D6" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="19">between artistry and engineering.</text>
+  <line x1="32" y1="168" x2="56" y2="168" stroke="#D4AF37"/>
+  <text x="66" y="172" fill="#D4AF37" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="2" text-anchor="start">BILL GATES</text>
 </svg>
