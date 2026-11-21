@@ -256,7 +256,7 @@ def trophies_card(days, repo_count: int) -> str:
         ("FULL-STACK", f"{repo_count}+ Repositories", "Web · Mobile · TV"),
         ("SECURITY R&D", "Fortress UPI", "StrongBox · BLE/NFC"),
         ("AGENTIC AI", "Bedrock & Gemini", "Multi-Agent Systems"),
-        ("VERIFIED", "8+ Credentials", "Oracle · Azure · IBM"),
+        ("VERIFIED", "17 Credentials", "Oracle · Wipro · IBM"),
         ("CONSISTENCY", f"{total}+ Commits", "Active Builder"),
     ]
     body = [label(32, 42, "ENGINEERING MILESTONES  ·  VERIFIED HONORS")]
